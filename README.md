@@ -14,10 +14,10 @@ Curso de Engenharia de Computação <br>
 - Schenaid Cristiano Mendes Pereira Júnior.
 
 ## Como Executar?
-Crie  e ative um ambiente virtual:
+Crie e ative um ambiente virtual:
 ```sh
 py -m venv venv
-cd ./venv/Scripts/activate
+./venv/Scripts/activate
 ```
 
 Instale as dependências no ambiente virtual:
